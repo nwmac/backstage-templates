@@ -5,7 +5,7 @@ metadata:
   description: A collection of example Backstage software templates
 spec:
   targets:
-    - ./clean-architecture-app/template.yaml
+    - ./clean-architecture-app/catalog-info.yaml
     - ./docs-template/template.yaml
     - ./docs-template-cookiecutter/template.yaml
     - ./rails-demo/template.yaml
